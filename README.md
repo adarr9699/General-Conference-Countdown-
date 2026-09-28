@@ -25,6 +25,9 @@ Starts the live General Conference countdown in the server.
 ### `/conference_view`
 Shows a link to the current countdown message if one is already running.
 
+### `/conference_move`
+Move to a different channel if you want. 
+
 ## Setup
 
 ### 1. Clone the repository
